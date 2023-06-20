@@ -1,0 +1,5 @@
+[tool.poetry]
+name = "Replit-Python39-Template"
+version = "1.0.0"
+description = ""
+authors = ["Tel1hor17"]
