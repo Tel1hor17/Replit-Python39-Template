@@ -1,4 +1,4 @@
-run="bash start.sh"
 
-[nix]
-channel = "stable-22_11"
+poetry run pip install -r requirements.txt
+clear
+poetry run python main.py
